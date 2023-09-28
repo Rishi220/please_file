@@ -1,3 +1,7 @@
 help me
+<<<<<<< HEAD
 give me marks(it will really help me)
+=======
+give me marks (humble request)
+>>>>>>> newbranch
 mercy
